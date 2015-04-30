@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/yiisoft/yii2-bootstrap" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/cebe/markdown" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/phpspec/php-diff" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/bower/punycode" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/yiisoft/yii2" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/bower/jquery" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/yiisoft/yii2-debug" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/bower/yii2-pjax" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/bower/bootstrap" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/yiisoft/yii2-swiftmailer" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/yiisoft/yii2-faker" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/swiftmailer/swiftmailer" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/fzaninotto/faker" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/yiisoft/yii2-gii" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/yiisoft/yii2-composer" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/ezyang/htmlpurifier" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/bower/typeahead.js" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/yiisoft/yii2-codeception" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/bower/jquery.inputmask" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/yiisoft/yii2-bootstrap" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/cebe/markdown" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/phpspec/php-diff" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/bower/punycode" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/yiisoft/yii2" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/bower/jquery" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/yiisoft/yii2-debug" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/bower/yii2-pjax" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/bower/bootstrap" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/yiisoft/yii2-swiftmailer" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/yiisoft/yii2-faker" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/swiftmailer/swiftmailer" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/fzaninotto/faker" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/yiisoft/yii2-gii" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/yiisoft/yii2-composer" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/ezyang/htmlpurifier" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/bower/typeahead.js" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/yiisoft/yii2-codeception" />
+          <root url="file://$MODULE_DIR$/../../yii2/vendor/bower/jquery.inputmask" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
